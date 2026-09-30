@@ -4,12 +4,9 @@
 
 <div align="center">
 
-<!-- Animasi teks: nama, profesi, keahlian, negara -->
+<!-- Animasi teks: nama gradient + efek mesin tik -->
 <a href="https://github.com/jswdotkom">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=70&lines=Syandana+Reska+Josawa;Website+Designer;UI%2FUX;Indonesia"
-    alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia"
-  />
+  <img src="https://jswdotkom.github.io/medsos/assets/header.svg" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
 </a>
 
 <br/>
