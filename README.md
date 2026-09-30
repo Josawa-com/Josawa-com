@@ -6,7 +6,7 @@
 
 <!-- Animasi teks: nama gradient + efek mesin tik -->
 <a href="https://github.com/jswdotkom">
-  <img src="https://jswdotkom.github.io/medsos/assets/header.svg" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
+  <img src="https://jswdotkom.github.io/medsos/assets/header.svg?v=2" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
 </a>
 
 <br/>
