@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animasi teks: nama, profesi, keahlian, negara -->
-<a href="https://github.com/SyandanaReskaJosawa">
+<a href="https://github.com/jswdotkom">
   <img
     src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=70&lines=Syandana+Reska+Josawa;Website+Designer;UI%2FUX;Indonesia"
     alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia"
@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SyandanaReskaJosawa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SyandanaReskaJosawa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jswdotkom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jswdotkom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SyandanaReskaJosawa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jswdotkom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -77,6 +77,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SyandanaReskaJosawa&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=jswdotkom&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
 
 </div>
