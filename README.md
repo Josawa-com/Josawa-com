@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="myanimation.gif" alt="Animasi Josawa" width="400">
+  <img src="myanimation.gif" alt="Full Width Animation" width="100%">
 </p>
 
 <div align="center">
@@ -22,16 +22,6 @@
 
 ---
 
-### Halo, saya Syandana Reska Josawa
-
-Seorang **Website Designer** yang berfokus pada **UI/UX**, asal **Indonesia**. Saya merancang antarmuka web yang bersih, modern, dan nyaman digunakan — dari wireframe, design system, hingga tampilan akhir.
-
-- 🔭 Sedang mendalami **UI/UX Design** dan **Web Development**
-- 🎯 Fokus: desain web responsif, design system, dan prototyping
-- 📫 Kontak: **syandanareskajosawa@gmail.com**
-
----
-
 ### Tech & Tools
 
 <div align="center">
@@ -40,9 +30,14 @@ Seorang **Website Designer** yang berfokus pada **UI/UX**, asal **Indonesia**. S
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI_Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
 
@@ -67,11 +62,17 @@ Seorang **Website Designer** yang berfokus pada **UI/UX**, asal **Indonesia**. S
 
 <div align="center">
 
-<a href="mailto:syandanareskajosawa@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<!-- Logo animasi berulang: klik untuk membuka link -->
+<a href="https://www.tiktok.com/@sanz_waelah?_r=1&_t=ZS-9A8DaZ48HRO" target="_blank">
+  <img src="./assets/tiktok.svg" width="90" height="90" alt="TikTok" title="TikTok" />
 </a>
-<a href="https://github.com/SyandanaReskaJosawa">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/sndnwell?stkn=MTNtbHhmZ2llMTBoYg==" target="_blank">
+  <img src="./assets/instagram.svg" width="90" height="90" alt="Instagram" title="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
+  <img src="./assets/whatsapp.svg" width="90" height="90" alt="WhatsApp" title="WhatsApp" />
 </a>
 
 <br/><br/>
