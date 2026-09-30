@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="myanimation.gif" alt="Animasi Josawa" width="400">
+</p>
+
 <div align="center">
 
 <!-- Animasi teks: nama, profesi, keahlian, negara -->
