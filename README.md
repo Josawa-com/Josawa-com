@@ -63,20 +63,19 @@
 <div align="center">
 
 <!-- Logo animasi berulang: klik untuk membuka link -->
-<a href="https://www.tiktok.com/@sanz_waelah?_r=1&_t=ZS-9A8DaZ48HRO" target="_blank">
-  <img src="./assets/tiktok.svg" width="90" height="90" alt="TikTok" title="TikTok" />
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/sndnwell?stkn=MTNtbHhmZ2llMTBoYg==" target="_blank">
-  <img src="./assets/instagram.svg" width="90" height="90" alt="Instagram" title="Instagram" />
-</a>
-&nbsp;&nbsp;
-<a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
-  <img src="./assets/whatsapp.svg" width="90" height="90" alt="WhatsApp" title="WhatsApp" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jswdotkom&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
-
-</div>
+<p align="center">
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@username_anda" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/username_anda" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6281234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
