@@ -63,19 +63,81 @@
 <div align="center">
 
 <!-- Logo animasi berulang: klik untuk membuka link -->
-<p align="center">
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@username_anda" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
-  
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/username_anda" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  
-  <!-- WhatsApp -->
-  <a href="https://wa.me/6281234567890" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-</p>
+<div align="center">
+
+<!-- Animasi teks: nama, profesi, keahlian, negara -->
+<a href="https://github.com/jswdotkom">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=70&lines=Syandana+Reska+Josawa;Website+Designer;UI%2FUX;Indonesia"
+    alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia"
+  />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Website%20Designer-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website Designer" />
+<img src="https://img.shields.io/badge/UI%2FUX-818CF8?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
+<img src="https://img.shields.io/badge/Indonesia-EF4444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Indonesia" />
+
+</div>
+
+---
+
+### Tech & Tools
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI Prompting](https://img.shields.io/badge/AI_Prompting-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=jswdotkom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jswdotkom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jswdotkom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+### Hubungi Saya
+
+<div align="center">
+
+<!-- Logo animasi berulang: klik untuk membuka link -->
+<a href="https://www.tiktok.com/@sanz_waelah?_r=1&_t=ZS-9A8DaZ48HRO" target="_blank">
+  <img src="./assets/tiktok-white.svg" width="40" height="40" alt="TikTok" title="TikTok" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/sndnwell?stkn=MTNtbHhmZ2llMTBoYg==" target="_blank">
+  <img src="./assets/instagram-white.svg" width="40" height="40" alt="Instagram" title="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
+  <img src="./assets/whatsapp-white.svg" width="40" height="40" alt="WhatsApp" title="WhatsApp" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=jswdotkom&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
+
+</div>
