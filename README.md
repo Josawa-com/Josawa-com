@@ -64,15 +64,15 @@
 
 <!-- Logo animasi berulang: klik untuk membuka link -->
 <a href="https://www.tiktok.com/@sanz_waelah?_r=1&_t=ZS-9A8DaZ48HRO" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/tiktok-white.svg" width="40" height="40" alt="TikTok" title="TikTok" />
+  <img src="https://jswdotkom.github.io/medsos/assets/tiktok-white.svg" width="64" height="64" alt="TikTok" title="TikTok" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/sndnwell?stkn=MTNtbHhmZ2llMTBoYg==" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/instagram-white.svg" width="40" height="40" alt="Instagram" title="Instagram" />
+  <img src="https://jswdotkom.github.io/medsos/assets/instagram-white.svg" width="64" height="64" alt="Instagram" title="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/whatsapp-white.svg" width="40" height="40" alt="WhatsApp" title="WhatsApp" />
+  <img src="https://jswdotkom.github.io/medsos/assets/whatsapp-white.svg" width="64" height="64" alt="WhatsApp" title="WhatsApp" />
 </a>
 
 <br/><br/>
