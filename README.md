@@ -58,7 +58,7 @@
 
 ---
 
-### Hubungi Saya
+### Contact & Social Media
 
 <div align="center">
 
@@ -74,9 +74,3 @@
 <a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
   <img src="https://jswdotkom.github.io/medsos/assets/whatsapp-white.svg" width="64" height="64" alt="WhatsApp" title="WhatsApp" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=jswdotkom&label=Profile%20Views&color=38BDF8&style=flat" alt="Profile Views" />
-
-</div>
