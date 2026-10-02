@@ -6,7 +6,7 @@
 
 <!-- Animasi teks: nama gradient + efek mesin tik -->
 <a href="https://github.com/Josawa-com">
-  <img src="https://jswdotkom.github.io/medsos/assets/header.svg?v=2" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
+  <img src="https://josawa-com.github.io/medsos/assets/header.svg?v=3" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
 </a>
 
 <br/>
@@ -49,7 +49,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jswdotkom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Josawa-com&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -61,13 +61,13 @@
 
 <!-- Logo animasi berulang: klik untuk membuka link -->
 <a href="https://www.tiktok.com/@sanz_waelah?_r=1&_t=ZS-9A8DaZ48HRO" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/tiktok-white.svg" width="64" height="64" alt="TikTok" title="TikTok" />
+  <img src="https://josawa-com.github.io/medsos/assets/tiktok-white.svg" width="64" height="64" alt="TikTok" title="TikTok" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.instagram.com/sndnwell?stkn=MTNtbHhmZ2llMTBoYg==" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/instagram-white.svg" width="64" height="64" alt="Instagram" title="Instagram" />
+  <img src="https://josawa-com.github.io/medsos/assets/instagram-white.svg" width="64" height="64" alt="Instagram" title="Instagram" />
 </a>
 &nbsp;&nbsp;
 <a href="https://wa.me/qr/WBDXUVVCOSDFB1" target="_blank">
-  <img src="https://jswdotkom.github.io/medsos/assets/whatsapp-white.svg" width="64" height="64" alt="WhatsApp" title="WhatsApp" />
+  <img src="https://josawa-com.github.io/medsos/assets/whatsapp-white.svg" width="64" height="64" alt="WhatsApp" title="WhatsApp" />
 </a>
