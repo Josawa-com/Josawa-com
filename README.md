@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Animasi teks: nama gradient + efek mesin tik -->
-<a href="https://github.com/jswdotkom">
+<a href="https://github.com/Josawa-com">
   <img src="https://jswdotkom.github.io/medsos/assets/header.svg?v=2" width="650" alt="Syandana Reska Josawa | Website Designer | UI/UX | Indonesia" />
 </a>
 
@@ -44,8 +44,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jswdotkom&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jswdotkom&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Josawa-com&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josawa-com&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
